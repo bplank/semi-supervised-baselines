@@ -10,7 +10,7 @@ dyNET==2.1
 gensim==3.5.0
 idna==2.7
 jmespath==0.9.3
-numpy==1.15.1
+numpy==1.19
 progress==1.4
 python-dateutil==2.7.3
 requests==2.20.0
